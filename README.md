@@ -1,2 +1,3 @@
-# restricted-boltzmann-machine-1
-Restricted Boltzmann Machine trained to act as a movie recommendation system
+# Restricted Boltzmann Machine (RBM)
+
+Example RBM coded in PyTorch and trained to be a movie recommendation system.
